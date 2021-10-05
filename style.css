@@ -142,6 +142,10 @@
     font-size: 40px;
     letter-spacing:2px;
   }
+.footerNameText{
+    margin-top: 100px;
+    margin-bottom: -50px;
+  }
   /* Media Queries */
 
 /* 320px — 480px */
